@@ -1,0 +1,4 @@
+Q1. Mean speed of all rides
+Q2. Number of rides taken in February.
+Q3. Number of rides where tip is more than 50$.
+Q4. Number of rides where drop was at JFK Airport.
